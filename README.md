@@ -55,3 +55,8 @@ The Student Housing project presents a pragmatic solution to the housing and com
 - **Team Muchachos**
 
 Thank you for exploring our project! We welcome feedback and contributions to further refine this initiative.
+
+- **Email:** aditya.tambe.professional31@example.com
+- **LinkedIn:** [Aditya Tambe](https://www.linkedin.com/in/adityatambee/)
+
+Thanks for visiting my repository! Let's code and grow together! 🌟
